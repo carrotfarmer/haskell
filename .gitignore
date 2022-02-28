@@ -1,0 +1,2 @@
+# ignore all the dist-newstyle dirs in all the dirs in root
+/**/dist-newstyle
